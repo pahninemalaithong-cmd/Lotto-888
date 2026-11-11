@@ -1,0 +1,9 @@
+name = "lotto-webapp"
+compatibility_date = "2026-11-01"
+pages_build_output_dir = "dist"
+
+# Cloudflare D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "lotto-db"
+database_id = "c5e39a41-a082-4073-9611-1939888ef9d1"
